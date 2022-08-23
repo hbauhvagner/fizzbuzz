@@ -1,4 +1,4 @@
-defmodule FizzbuzzTest do
+defmodule FizzBuzzTest do
   use ExUnit.Case
   doctest Fizzbuzz
 
